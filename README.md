@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @digsc aKa Dan Brachman
 - 👀 I’m interested in Python, HTML, CSS , And Javascript
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning python!
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me: thelifeofdanbrachman at gmail d0t com
 
